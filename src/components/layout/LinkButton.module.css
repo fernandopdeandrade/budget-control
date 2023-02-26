@@ -1,0 +1,15 @@
+.btn {
+  background-color: rgb(241, 187, 51);
+  color: black;
+  padding: 0.8em 1.5em;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: rgb(241, 177, 16);
+  scale: 1.1;
+}
